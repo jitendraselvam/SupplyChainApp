@@ -7,7 +7,7 @@ For this project, you will creating a DApp supply chain solution backed by the E
 
 ### Activity
 
-![Activity Diagram](images/activity.png)
+![Activity Diagram](images/Activity.png)
 
 ### Sequence
 
